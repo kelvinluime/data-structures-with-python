@@ -1,2 +1,13 @@
-# data-structures-with-python
-Some data structures implementation that help me to learn python. 
+# About
+Implement some data structures and algorithms that I implemented to help me
+learn Python.
+
+# Checklist
+[ ] Stack
+[ ] Queue
+[ ] Linked List
+[ ] Tree
+[ ] Binary Search Tree
+[ ] Dictionary
+[ ] Graph
+[ ] Bubble Sort
