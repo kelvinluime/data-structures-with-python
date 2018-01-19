@@ -1,6 +1,6 @@
 # About
 Implement some data structures and algorithms that I implemented to help me
-learn Python.
+learn the syntax of Python.
 
 # Checklist
 - [ ] Stack
