@@ -14,8 +14,8 @@ class Stack:
     def pop(self):
         self.__list.pop()
 
-    def get_num_of_elements(self):
-        return len(self.__list)
+    def clear():
+        self.__list.clear()
 
 stack = Stack()
 stack.push(1)

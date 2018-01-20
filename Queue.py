@@ -14,6 +14,9 @@ class Queue:
     def dequeue(self):
         self.__list.remove(self.__list[0])
 
+    def clear(self):
+        self.__list.clear()
+
 queue = Queue()
 
 queue.enqueue(1)
